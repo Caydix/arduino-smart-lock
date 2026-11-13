@@ -1,0 +1,15 @@
+# Arduino编译生成临时文件
+*.hex
+*.elf
+*.bin
+build/
+*.o
+
+# VSCode本地配置
+.vscode/settings.json
+.vscode/arduino.json
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+*.log
